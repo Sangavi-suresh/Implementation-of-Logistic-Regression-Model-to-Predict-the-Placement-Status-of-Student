@@ -92,43 +92,43 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 
 ## Output:
-HEAD OF THE DATA :
+# HEAD OF THE DATA :
 ![headdata](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/054e02e0-b394-4939-b3e9-6ecef66fe32a)
 
 
-COPY HEAD OF THE DATA :
+# COPY HEAD OF THE DATA :
 ![copydata](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/e390c154-ab2d-4218-9db4-5fc0d42f10cd)
 
 
-NULL AND SUM :
+# NULL AND SUM :
 ![null sum](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/a1662f55-4df5-4b3d-9c93-79ce8fbc55b0)
 
 
-DUPLICATED :
+# DUPLICATED :
 ![dupli](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/26fc83b6-c7f1-4070-8e78-9628f1a76efb)
 
 
-X VALUE :
+# X VALUE :
 ![xvalue](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/9935f980-326f-4545-be49-306edbcd5a73)
 
 
-Y VALUE :
+# Y VALUE :
 ![yvalue](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/3b13ccd1-9ec6-4180-b40f-4e7dba7dc6d3)
 
 
-PREDICTED VALUES :
+# PREDICTED VALUES :
 ![predvaluse](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/8481c836-8833-4818-a762-612dc17189cd)
 
 
-ACCURACY :
+# ACCURACY :
 ![accura](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/19fa1d3b-d5f3-45e9-89a0-9136887ed99e)
 
 
-CONFUSION MATRIX :
+# CONFUSION MATRIX :
 
 ![confusion](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/20e9a3ef-2c4c-4268-9933-84fdc5d131b1)
 
-CLASSIFICATION REPORT :
+# CLASSIFICATION REPORT :
 ![clasrepo](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/5d61e3b1-0efd-4e1a-8c21-0a5f954d182d)
 
 
