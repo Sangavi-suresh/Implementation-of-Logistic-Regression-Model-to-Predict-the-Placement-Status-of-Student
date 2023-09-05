@@ -125,8 +125,8 @@ ACCURACY :
 
 
 CONFUSION MATRIX :
-![confusion](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/b0790846-5843-4596-b064-1e4a23d9a927)
 
+![confusion](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/20e9a3ef-2c4c-4268-9933-84fdc5d131b1)
 
 CLASSIFICATION REPORT :
 ![clasrepo](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/5d61e3b1-0efd-4e1a-8c21-0a5f954d182d)
