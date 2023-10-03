@@ -92,13 +92,8 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 
 ## Output:
-# HEAD OF THE DATA :
+# PLACEMENT DATA :
 ![headdata](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/054e02e0-b394-4939-b3e9-6ecef66fe32a)
-
-
-# COPY HEAD OF THE DATA :
-![copydata](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/e390c154-ab2d-4218-9db4-5fc0d42f10cd)
-
 
 # NULL AND SUM :
 ![null sum](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/a1662f55-4df5-4b3d-9c93-79ce8fbc55b0)
