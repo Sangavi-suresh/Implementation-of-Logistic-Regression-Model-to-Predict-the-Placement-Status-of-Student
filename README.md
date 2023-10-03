@@ -95,10 +95,8 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 # PLACEMENT DATA :
 ![headdata](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/054e02e0-b394-4939-b3e9-6ecef66fe32a)
 
-
-
 # SALARY DATA :
-![dupli](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/26fc83b6-c7f1-4070-8e78-9628f1a76efb)
+![image](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/aa56619b-3ef9-469f-a21e-1d8a42edfcd4)
 
 # CHECKING THE NULL FUNCTION:
 ![image](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/25cfc63d-15af-471d-9403-80ff12823d0d)
