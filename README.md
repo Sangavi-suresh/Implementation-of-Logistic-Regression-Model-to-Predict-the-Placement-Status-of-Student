@@ -101,20 +101,22 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 # CHECKING THE NULL FUNCTION:
 ![image](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/09cd86aa-ad67-4552-ba4f-0ffb2536cd2b)
 
+# Data Duplicate:
+![image](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/e2a5d1d3-4704-4b42-b613-424ab0c9b604)
 
-# X VALUE :
+#PRINT DATA :
 ![xvalue](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/9935f980-326f-4545-be49-306edbcd5a73)
 
 
-# Y VALUE :
+# DATA STATUS :
 ![yvalue](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/3b13ccd1-9ec6-4180-b40f-4e7dba7dc6d3)
 
 
-# PREDICTED VALUES :
+# Y_PREDICTED ARRAY:
 ![predvaluse](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/8481c836-8833-4818-a762-612dc17189cd)
 
 
-# ACCURACY :
+# ACCURACY VALUES :
 ![accura](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/19fa1d3b-d5f3-45e9-89a0-9136887ed99e)
 
 
