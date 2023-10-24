@@ -114,12 +114,12 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![image](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/ec6a48d4-926e-481e-b9f8-849c1efb038d)
 
 # ACCURACY:
-![accura](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/19fa1d3b-d5f3-45e9-89a0-9136887ed99e)
+![image](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/a947778c-f332-484b-8b9e-46c3772bee55)
 
 
 # CONFUSION MATRIX :
+![image](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/23497ba5-3b54-4bb5-b0b0-dc9bdaf090a5)
 
-![confusion](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/20e9a3ef-2c4c-4268-9933-84fdc5d131b1)
 
 # CLASSIFICATION REPORT :
 ![clasrepo](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/5d61e3b1-0efd-4e1a-8c21-0a5f954d182d)
