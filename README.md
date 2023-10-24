@@ -38,7 +38,6 @@ Program to implement the the Logistic Regression Model to Predict the Placement 
 Developed by:sangavi suresh 
 RegisterNumber:  212222230130
 */
-```
 import pandas as pd
 
 data = pd.read_csv("Placement_Data.csv")
@@ -89,34 +88,32 @@ classification_report1 = classification_report(y_test,y_pred)
 classification_report1
 
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
-
+```
 
 ## Output:
-# PLACEMENT DATA :
-![headdata](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/054e02e0-b394-4939-b3e9-6ecef66fe32a)
-
-# SALARY DATA :
-![image](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/aa56619b-3ef9-469f-a21e-1d8a42edfcd4)
-
-# CHECKING THE NULL FUNCTION:
-![image](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/09cd86aa-ad67-4552-ba4f-0ffb2536cd2b)
-
-# Data Duplicate:
-![image](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/e2a5d1d3-4704-4b42-b613-424ab0c9b604)
-
-#PRINT DATA :
-![xvalue](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/9935f980-326f-4545-be49-306edbcd5a73)
+# HEAD OF THE DATA :
+![image](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/cd2a61ae-4614-446a-bf05-c2a12ad5d089)
 
 
-# DATA STATUS :
-![yvalue](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/3b13ccd1-9ec6-4180-b40f-4e7dba7dc6d3)
+# COPY HEAD OF THE DATA :
+![image](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/422ccdd0-4bf9-4fe7-95c6-be60d8a0efe5)
 
+# NULL AND SUM:
+![image](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/fc128242-5ca8-44ec-bcd8-1b22d9cb3292)
 
-# Y_PREDICTED ARRAY:
-![predvaluse](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/8481c836-8833-4818-a762-612dc17189cd)
+# DUPLICATED:
+![image](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/e23e5e3b-1a6f-4727-9b3e-963bd1de5c44)
 
+# X VALUE:
+![image](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/e4ee3ec5-f749-42f8-834a-8d7bf6ad76d4)
 
-# ACCURACY VALUES :
+# Y VALUE:
+![image](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/a5819f94-ddb1-4912-9108-d46fa68d3be0)
+
+# PREDICTED VALUES:
+![image](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/ec6a48d4-926e-481e-b9f8-849c1efb038d)
+
+# ACCURACY:
 ![accura](https://github.com/Sangavi-suresh/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118541861/19fa1d3b-d5f3-45e9-89a0-9136887ed99e)
 
 
